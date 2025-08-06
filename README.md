@@ -29,7 +29,7 @@ In this section we are going to see complete JavaScript Course:
 
 PRE-REQUISITE:
 
-*Basic computer knowledge
-*Understanding Of HTML And CSS
-*Text editor(Visual studio code, Notepad, etc)
+*Basic computer knowledge 
+*Understanding Of HTML And CSS 
+*Text editor(Visual studio code, Notepad, etc) 
 *Web browser(Google chrome, Microsoft edge, etc) 
