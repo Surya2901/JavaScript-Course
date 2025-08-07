@@ -1,4 +1,4 @@
-# *JAVA SCRIPT COMPLETE COURSE FOR BRGINNERS*
+# *JAVA SCRIPT COMPLETE COURSE FOR BEGINNERS*
 Learn Complete Java SCript Programming Language In-depth.
 
 # NOTE : Hey guys,
